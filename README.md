@@ -25,3 +25,7 @@ Word Guess Game using JavaScript and Web APIs.
 * When a user clicks the start button, the timer should reset. 
 
 * When a user refreshes or returns to the browser page, the win and loss counts should persist.
+
+#### Usage
+Just make a pull request with a comment.
+
