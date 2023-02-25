@@ -26,6 +26,8 @@ Word Guess Game using JavaScript and Web APIs.
 
 * When a user refreshes or returns to the browser page, the win and loss counts should persist.
 
-#### Usage
+### Usage
 Just make a pull request with a comment.
+
+--A ShaneWilmes @GitHub Production.  Completed April 2022.  
 
