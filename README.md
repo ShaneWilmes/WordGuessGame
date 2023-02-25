@@ -29,5 +29,5 @@ Word Guess Game using JavaScript and Web APIs.
 ### Usage
 Just make a pull request with a comment.
 
--- ShaneWilmes @GitHub Production.  Completed April 2022 -- 
+-- by ShaneWilmes Completed April 2022 -- 
 
